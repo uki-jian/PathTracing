@@ -1,0 +1,11 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  xmltest.cpp
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(954): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1142): error C2001: 常量中有换行符
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1149): error C2001: 常量中有换行符
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1150): error C2146: 语法错误: 缺少“)”(在标识符“TiXmlHandle”的前面)
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1150): error C2146: 语法错误: 缺少“;”(在标识符“TiXmlHandle”的前面)
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1153): error C2001: 常量中有换行符
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1154): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1153): error C2661: “XmlTest”: 没有重载函数接受 2 个参数
+g:\cg\hw2\hw1\include\tinyxml\xmltest.cpp(1154): error C2143: 语法错误: 缺少“;”(在“}”的前面)

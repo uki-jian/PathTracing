@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(pathTracing.vcxproj, pathTracing7.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  aabb.cpp
+  camera.cpp
+e:\courses\homework\pathtracing-release\hw1\camera.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+e:\courses\homework\pathtracing-release\hw1\camera.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+  intersect.cpp
+  main.cpp
+  mesh.cpp
+e:\courses\homework\pathtracing-release\hw1\mesh.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+  octree.cpp
+e:\courses\homework\pathtracing-release\hw1\octree.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+  raytracer.cpp
+  texture.cpp
+  utils.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  hw1.vcxproj -> E:\courses\homework\pathTracing-release\Debug\pathTracing8.exe

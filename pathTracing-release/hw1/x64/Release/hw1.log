@@ -1,0 +1,15 @@
+﻿  aabb.cpp
+  camera.cpp
+  intersect.cpp
+  main.cpp
+  mesh.cpp
+e:\courses\cg\homework\pathtracing-release\hw1\mesh.cpp(135): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\courses\cg\homework\pathtracing-release\hw1\mesh.cpp(136): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\courses\cg\homework\pathtracing-release\hw1\mesh.cpp(137): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\courses\cg\homework\pathtracing-release\hw1\mesh.cpp(249): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  octree.cpp
+e:\courses\cg\homework\pathtracing-release\hw1\octree.cpp(14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  raytracer.cpp
+  texture.cpp
+  utils.cpp
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
